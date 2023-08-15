@@ -13,7 +13,6 @@ public class _Main {
         ResultWriterService.printResult(a, b, result, "разность", "-");
         result = Calculator.multiply(a, b);
         ResultWriterService.printResult(a, b, result, "произведение", "*");
-
     }
 }
-q
+
